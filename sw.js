@@ -1,4 +1,4 @@
-var CACHE = 'piggy-world-v3';
+var CACHE = 'piggy-world-v4';
 var ASSETS = [
   './',
   './index.html',
