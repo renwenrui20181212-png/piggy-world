@@ -1,0 +1,15 @@
+{
+  "name": "小猪欢乐世界",
+  "short_name": "小猪乐园",
+  "description": "给小朋友的原创小猪探索小游戏，离线可玩。",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#8ed6ff",
+  "theme_color": "#8ed6ff",
+  "icons": [
+    { "src": "icon.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
